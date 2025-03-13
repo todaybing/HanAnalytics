@@ -13,10 +13,10 @@
       <header>
         <Alert>
           <AlertDescription>
-            <p>· Han Analytics 是一个简单的网络分析跟踪器和仪表板，托管在被称为赛博菩萨的 Cloudflare 上,无成本稳定运行,每天可达10万次免费统计。</p>
-            <p>· 域名、服务器、数据库 通通都不用! 托管在 Cloudflare Pages 上即可快速部署网站分析仪表板。</p>
-            <p style="font-weight: bold;">· 开源地址: <a class="git-link" href="https://github.com/uxiaohan/HanAnalytics"
-                target="_blank">Han-Analytics</a>
+            <p></p>
+            <p></p>
+            <p style="font-weight: bold;"><a class="git-link" href="//www.todaybing.com"
+                target="_blank">必应壁纸</a>
             </p>
           </AlertDescription>
         </Alert>
