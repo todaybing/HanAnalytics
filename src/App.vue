@@ -27,7 +27,7 @@
               <Select :disabled="siteList.length < 1 || getDatasStatus" v-model="siteValue"
                 @update:model-value="getDatas">
                 <SelectTrigger class="w-[218px]">
-                  <SelectValue placeholder="选择站点" />
+                  <SelectValue placeholder="必应壁纸" />
                 </SelectTrigger>
                 <SelectContent>
                   <SelectGroup>
